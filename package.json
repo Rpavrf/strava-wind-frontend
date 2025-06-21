@@ -16,6 +16,7 @@
     "recharts": "^2.7.2"
   },
   "devDependencies": {
-    "vite": "^4.3.9"
+    "@vitejs/plugin-react": "^4.5.2",
+    "vite": "^6.3.5"
   }
 }
